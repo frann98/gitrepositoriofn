@@ -1,2 +1,4 @@
 Creo primer archivo
 Agrego linea al primer archivo
+Agrego linea1 activ31
+Agrego linea2 activ31
